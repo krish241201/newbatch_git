@@ -1,5 +1,5 @@
 
 adding
-C
-C
+new line here
+
 This is new file for dev testing.
